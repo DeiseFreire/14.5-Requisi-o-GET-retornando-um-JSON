@@ -1,7 +1,5 @@
-#### Digital Innovation One
-#### Curso de Desenvolvimento para Internet e Banco de Dados com Python e Django
-#### Aplicação Agenda
 
+#### Agenda
 #### Tecnologias utilizadas:
 
 - python 3.7
